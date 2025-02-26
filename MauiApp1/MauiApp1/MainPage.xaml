@@ -34,6 +34,10 @@
                 x:Name="btnTela2"
                 Text="Abrir Tela 2"
                 Clicked="btnTela2_Clicked"/>
+            <Button
+                x:Name="btnVoltar"
+                Text="Voltar"
+                Clicked="btnVoltar_Clicked"/>    
         </VerticalStackLayout>
     </ScrollView>
 
